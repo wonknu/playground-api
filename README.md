@@ -1,4 +1,6 @@
 playground-api
 ==============
 
-client side script for playground project
+Client side script for playground project
+
+This project is a magento module to install playground's project api on the CMS, so it runs on the clients browser.
