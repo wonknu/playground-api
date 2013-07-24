@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <PlayGround_Api><!-- Namespace Folder_Module -->
+            <version>1.0.0</version>
+        </PlayGround_Api>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <playground><!-- Layout file which add the script from our CDN -->
+                    <file>playground.xml</file>
+                </playground>
+            </updates>
+        </layout>
+    </frontend>
+</config>
