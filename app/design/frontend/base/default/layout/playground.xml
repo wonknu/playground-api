@@ -13,7 +13,8 @@ PlayGround layout that add custom script
 							<script type="text/javascript"
 							    data-pg-api-key="key_first"
                                         data-mouth="true"
-                                            src="http://ic.adfab.fr/mouthnode/playground-init/js/pg.min.js"></script>
+	                                        data-ears="true"
+	                                            src="http://ic.adfab.fr/mouthnode/playground-init/js/pg.min.js"></script>
 						
 							<script type="text/javascript">
 						]]>
